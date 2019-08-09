@@ -10,17 +10,19 @@
     <remote fetch="https://github.com/a3y17lte/" name="a3y17lte" />
     <remote fetch="https://github.com/Exynos7870/" name="Exynos7870" />
     <remote fetch="https://github.com/LineageOS/" name="LineageOS" />
+    <remote fetch="https://github.com/Astrako/" name="Alejandro" />
+    <remote fetch="https://github.com/Sap1k/" name="Sap1k" />
 
     <!-- Device -->
     <project name="android_device_samsung_exynos7870-common" path="device/samsung/exynos7870-common" remote="Exynos7870" revision="lineage-16.0-matt" />
     <project name="device-specific" path="device/samsung/a3y17lte" remote="a3y17lte" revision="lineage-16.0" />
 
     <!-- Kernel -->
-    <project name="kernel" path="kernel/samsung/exynos7870" remote="a3y17lte" revision="lineage-16.0" />
+    <project name="A600FNXXU3BSC5" path="kernel/samsung/exynos7870" remote="Alejandro" revision="GSI" />
 
     <!-- Vendor -->
-    <project name="vendor" path="vendor/samsung/a3y17lte" remote="a3y17lte" revision="lineage-16.0" />
-    <project name="android_vendor_samsung" path="vendor/samsung" remote="Exynos7870" revision="lineage-16.0-matt" />
+    <project name="a3y17lte_vendor_r28" path="vendor/samsung/a3y17lte" remote="Sap1k" revision="lineage-16.0" />
+    <project name="android_vendor_samsung" path="vendor/samsung" remote="Sap1k" revision="lineage-16.0-sap1k" />
     
     <!-- Hardware (not included in BSP) -->
     <project name="android_hardware_samsung" path="hardware/samsung" remote="a3y17lte" />
