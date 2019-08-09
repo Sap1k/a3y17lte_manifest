@@ -22,7 +22,7 @@
 
     <!-- Vendor -->
     <project name="a3y17lte_vendor_r28" path="vendor/samsung/a3y17lte" remote="Sap1k" revision="lineage-16.0" />
-    <project name="android_vendor_samsung" path="vendor/samsung" remote="Sap1k" revision="lineage-16.0-sap1k" />
+    <project name="android_vendor_samsung" path="vendor/samsung" remote="Sap1k" revision="lineage-16.0-sap1k-r28" />
     
     <!-- Hardware (not included in BSP) -->
     <project name="android_hardware_samsung" path="hardware/samsung" remote="a3y17lte" />
