@@ -10,8 +10,6 @@
 Copyright (C) 2017 Matthieu <g.matthieu49@gmail.com><br>
 Exynos7870 devs for their work
 
-Sap1k for new kernel and numerous other changes
-
 ## Contact
 
 If you want talk to me, here is my telegram :https://t.me/McFy49
