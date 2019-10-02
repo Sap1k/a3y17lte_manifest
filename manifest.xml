@@ -16,12 +16,12 @@
     <project name="android_device_samsung_a3y17lte" path="device/samsung/a3y17lte" remote="Sap1k" revision="lineage-17.0" />
 
     <!-- Kernel -->
-    <project name="A600FNXXU3BSC5" path="kernel/samsung/exynos7870" remote="Astrako" revision="gsi" />
+    <project name="A600FNXXU3BSC5" path="kernel/samsung/exynos7870" remote="Astrako" revision="GSI" />
 
     <!-- Vendor -->
     <project name="android_vendor_samsung_a3y17lte" path="vendor/samsung/a3y17lte" remote="Sap1k" revision="lineage-17.0" />
 
     <!-- Hardware -->   
-    <project name="android_hardware_samsung" path="hardware/samsung" remote="Valera1978" />
+    <project name="android_hardware_samsung" path="hardware/samsung" remote="Valera1978" revision="lineage-16.0" />
 		
 </manifest>
