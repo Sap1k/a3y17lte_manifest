@@ -10,19 +10,18 @@
     <remote fetch="https://github.com/Sap1k/" name="Sap1k" />
     <remote fetch="https://github.com/Astrako/" name="Astrako" />
     <remote fetch="https://github.com/Exynos7870/" name="Exynos7870" />
+    <remote fetch="https://github.com/Valera1978/" name="Valera1978" />
 	
     <!-- Device -->
     <project name="android_device_samsung_a3y17lte" path="device/samsung/a3y17lte" remote="Sap1k" revision="lineage-17.0" />
-    <project name="android_device_samsung_exynos7870-common" path="device/samsung/exynos7870-common" remote="Exynos7870" revision="lineage-16.0-matt" />
 
     <!-- Kernel -->
     <project name="A600FNXXU3BSC5" path="kernel/samsung/exynos7870" remote="Astrako" revision="gsi" />
 
     <!-- Vendor -->
     <project name="android_vendor_samsung_a3y17lte" path="vendor/samsung/a3y17lte" remote="Sap1k" revision="lineage-17.0" />
-    <project name="android_vendor_samsung" path="vendor/samsung" remote="Exynos7870" revision="lineage-16.0" />
 
     <!-- Hardware -->   
-    <project name="android_hardware_samsung" path="hardware/samsung" remote="a3y17lte" revision="lineage-16.0" />
+    <project name="android_hardware_samsung" path="hardware/samsung" remote="Valera1978" />
 		
 </manifest>
