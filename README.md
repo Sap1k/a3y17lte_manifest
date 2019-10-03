@@ -1,6 +1,6 @@
 ## Setup Galaxy A3 2017 for AOSP-Quack based rom
 
-* Download supported sources (LineageOS, AOSCP, RR, etc...)
+* Download supported sources (LineageOS, AOSCP, RR, etc...) (this source is suited best for PE, you will have to modify it for other ROMs)
 * Once this is download, clone this repo to .repo/local_manifests then sync repositories again
 * Do the command . build/env*
 * Launch your build (brunch aosp_a3y17lte-userdebug, aosp can change depending on the target rom)
