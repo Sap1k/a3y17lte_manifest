@@ -11,6 +11,7 @@
     <remote fetch="https://github.com/Astrako/" name="Astrako" />
     <remote fetch="https://github.com/Exynos7870/" name="Exynos7870" />
     <remote fetch="https://github.com/Valera1978/" name="Valera1978" />
+    <remote fetch="https://github.com/LineageOS/" name="LineageOS" />
 	
     <!-- Device -->
     <project name="android_device_samsung_a3y17lte" path="device/samsung/a3y17lte" remote="Sap1k" revision="lineage-17.0" />
@@ -23,5 +24,6 @@
 
     <!-- Hardware -->   
     <project name="android_hardware_samsung" path="hardware/samsung" remote="Valera1978" revision="lineage-17.0" />
+    <project name="android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="LineageOS" revision="lineage-17.0" />
 		
 </manifest>
