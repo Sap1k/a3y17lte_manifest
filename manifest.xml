@@ -14,14 +14,14 @@
 	
     <!-- Device -->
     <project name="android_device_samsung_a3y17lte" path="device/samsung/a3y17lte" remote="Sap1k" revision="ten_(wip)" />
-    <project name="android_device_samsung_universal7870-common" path="device/samsung/exynos7870-common" remote="Sap1k" revision="ten_(wip)" />
+    <project name="android_device_samsung_universal7870-common" path="device/samsung/universal7870-common" remote="Sap1k" revision="ten_(wip)" />
 
     <!-- Kernel -->
     <project name="android_kernel_samsung_exynos7870" path="kernel/samsung/exynos7870" remote="Astrako" revision="testing" />
 
     <!-- Vendor -->
     <project name="android_vendor_samsung_a3y17lte" path="vendor/samsung/a3y17lte" remote="Sap1k" revision="ten_(wip)" />
-    <project name="android_vendor_samsung_universal7870-common" path="vendor/samsung/exynos7870-common" remote="Sap1k" revision="ten_(wip)" />
+    <project name="android_vendor_samsung_universal7870-common" path="vendor/samsung/universal7870-common" remote="Sap1k" revision="ten_(wip)" />
 
     <!-- Hardware -->   
     <project name="android_hardware_samsung" path="hardware/samsung" remote="Astrako" revision="lineage-17.0" />
